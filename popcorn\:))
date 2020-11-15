@@ -1,0 +1,213 @@
+[
+	{
+		"name": ".home",
+        "id":0,
+        "description": "home Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".fnclap",
+        "id": 1,
+        "description": "Valve Source Engine TCP Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".dns",
+        "id": 2,
+        "description": "fuckukid Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".fivemclap",
+        "id": 3,
+        "description": "Valve Source Engine TCP Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".ack",
+        "id": 4,
+        "description": "arkflood",        
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".ovhvac",
+        "id": 5,
+        "description": "hydraflood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".greip",
+        "id": 6,
+        "description": "hydrakissmeflood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".greeth",
+        "id": 7,
+        "description": "DNS Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".vpncrush",
+        "id": 8,
+        "description": "SYN TCP Flag Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".std",
+        "id": 9,
+        "description": "ACK TCP Flag Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".ovhnat",
+        "id": 10,
+        "description": "Multiple Floods Mixed",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".usyn",
+        "id": 11,
+        "description": "Multiple Floods Mixed",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".homev2",
+        "id": 12,
+        "description": "GRE IP Packet Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".stun",
+        "id": 13,
+        "description": "GRE Ethernet Packet flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".2kclap",  
+        "id": 14,
+        "description": "fnlag Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".nfonuke",  
+        "id": 15,
+        "description": "Fivem Game Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".udprape",
+        "id": 16,
+        "description": "STD Flood.",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".stdhex",
+        "id": 17,
+        "description": "urgay Flood.",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".ovhdie",
+        "id": 18,
+        "description": "MDNS Flood.",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".hex",
+        "id": 19,
+        "description": "arkdowndowndownd Flood.",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".ovhkill",
+        "id": 20,
+        "description": "arkdowndowndownwasdwasdwad Flood.",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".zoomkill",
+        "id": 21,
+        "description": "arkdowndowndownwasdwasdwad Flood.",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".fivemv1",
+       "id": 22,
+        "description": "hexexexex Flood.",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".r6down",
+        "id": 23,
+        "description": "raiding flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".hotspot",
+        "id": 24,
+        "description": "XMAS RTCP Flag Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".udpmix",
+        "id": 25,
+        "description": "ip Placket Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".ldap",
+        "id": 26,
+        "description": "All TCP Flags Mixed Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".ovhrape",
+        "id": 27,
+        "description": "All TCP Flags Mixed Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".hydracom",
+        "id": 28,
+        "description": "TCP FRAG Packet Flood",
+        "defaultPort": 80,
+        "vip": false
+    },
+    {
+    	"name": ".vpnkill",
+        "id": 29,
+        "description": "hex flood",
+        "defaultPort": 80,
+        "vip": false
+    }
+]
+	
